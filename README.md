@@ -1,17 +1,39 @@
-# cadarpio_afonso
+# 📱 Cardápio Digital 
 
-A new Flutter project.
+> 🚧 **Status do Projeto:** Em desenvolvimento (Construindo e aprendendo!) 🚧
 
-## Getting Started
+Bem-vindo(a) ao repositório do meu aplicativo! 🚀
 
-This project is a starting point for a Flutter application.
+💡 Sobre o Projeto
+Este projeto nasceu de uma ideia simples: aplicar na prática o que estou aprendendo nos meus estudos de desenvolvimento mobile. Sou estudante de programação e decidi criar um Cardápio Digital para testar meus novos conhecimentos e evoluir na criação de interfaces.
 
-A few resources to get you started if this is your first Flutter project:
+O objetivo do projeto é construir uma tela bonita, organizada e funcional, onde clientes possam visualizar facilmente as opções de um restaurante ou lanchonete diretamente do celular. Foi uma ótima jornada de aprendizado lidando com a estrutura do aplicativo, imagens, e configurações de compilação do Android!
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+🛠️ Tecnologias Utilizadas
+Flutter: Framework principal para a construção da interface.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dart: Linguagem de programação base do aplicativo.
+
+🚀 Como testar o projeto
+Se você quiser rodar este código na sua máquina, siga os passos abaixo:
+
+Certifique-se de ter o ambiente do Flutter configurado no seu computador.
+
+Clone este repositório:
+
+Bash
+git clone https://github.com/HonorioLuke/projeto_cardapio.git
+Abra o terminal na pasta do projeto e baixe as dependências:
+
+Bash
+flutter pub get
+Rode o aplicativo no seu emulador ou celular conectado:
+
+Bash
+flutter run
+Feito com muita dedicação, estudos e café! ☕💙
+
+## 🚧 Próximos Passos (O que vem por aí)
+- [ ] Criar a tela de detalhes do prato.
+- [ ] Adicionar um carrinho de compras.
+- [ ] Mudar as cores do tema.
